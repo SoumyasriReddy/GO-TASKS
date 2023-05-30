@@ -1,0 +1,1 @@
+create table Product(ID string, Name varchar(20),Price int); 
